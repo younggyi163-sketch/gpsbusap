@@ -1,0 +1,6 @@
+kivy
+plyer
+geopy
+kivy_garden.mapview
+pyjnius
+requests
